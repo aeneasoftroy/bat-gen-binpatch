@@ -11,10 +11,10 @@ This script generates a binary patch and a script that applies the patch as well
 * originalfile: the file that is expected for the patch
 * patchedfile: the file that will be differentially compared with the original, changes are stored in **"data.patch"**.
 
-![alt text](https://github.com/aeneasoftroy/bat-gen-binpatch/gen-binpatcher_v2_diff_ok.png)
+![alt text](https://github.com/aeneasoftroy/bat-gen-binpatch/blob/master/gen-binpatcher_v2_diff_ok.png)
 
-![alt text](https://github.com/aeneasoftroy/bat-gen-binpatch/gen-binpatcher_v2_diff_error.png)
+![alt text](https://github.com/aeneasoftroy/bat-gen-binpatch/blob/master/gen-binpatcher_v2_diff_error.png)
 
-![alt text](https://github.com/aeneasoftroy/bat-gen-binpatch/gen-binpatcher_v2_apply_screen01.png)
+![alt text](https://github.com/aeneasoftroy/bat-gen-binpatch/blob/master/gen-binpatcher_v2_apply_screen01.png)
 
-![alt text](https://github.com/aeneasoftroy/bat-gen-binpatch/gen-binpatcher_v2_apply_screen02.png)
+![alt text](https://github.com/aeneasoftroy/bat-gen-binpatch/blob/master/gen-binpatcher_v2_apply_screen02.png)
