@@ -20,6 +20,7 @@ This script generates a binary patch and a script that applies the patch as well
 * execute "script.bat originalfile patchedfile"
 * input release name
 * script will validate the original file using MD5
+* script will backup the original file to originalfile.ext.bak
 * script will differentiate data
 * script will gather patch details
 * script will generate a new script for applying the patchdata including details of the patch
