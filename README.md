@@ -37,3 +37,5 @@ This script generates a binary patch and a script that applies the patch as well
 ![alt text](https://github.com/aeneasoftroy/bat-gen-binpatch/blob/master/gen-binpatcher_v2_apply_screen02.png)
 
 *Screenshot of the patching process of the generated output script*
+
+#### Aeneas of Troy
